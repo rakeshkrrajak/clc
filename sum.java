@@ -5,5 +5,4 @@ public class Sum {
         int result = num1 + num2;
         
         System.out.println("Sum of it" + num1 + " and " + num2 + " is: " + result);
-    }
-}
+
