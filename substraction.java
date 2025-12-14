@@ -2,7 +2,7 @@ package clc;
 
 public class substraction {
     public static void main(String[] args) {
-        int num1 = 20;
+        int num1 = 30;
         int num2 = 10;
         int result = num1 - num2;
         
