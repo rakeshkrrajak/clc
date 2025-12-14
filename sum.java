@@ -4,6 +4,6 @@ public class Sum {
         int num2 = 20;
         int result = num1 + num2;
         
-        System.out.println("Sum of " + num1 + " and " + num2 + " is: " + result);
+        System.out.println("Sum of the" + num1 + " and " + num2 + " is: " + result);
     }
 }
